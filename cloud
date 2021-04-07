@@ -14,7 +14,7 @@
     <h1>Üdvözletem, István</h1>
 </header>
 <div class="row">
-<div class="col-md-3 col-sm-6 bg-primary mt-5">
+<div class="col-md-3 col-sm-6 bg-info mt-5">
     <p><img  class="img-fluid" src="pict/kutya.jpg">a felhasználók kényelmesen és igény szerint férhetnek
         hozzá a megosztott informatikai erőforrásokhoz,
         amelyeket gyorsan és minimális adminisztrációs
@@ -28,10 +28,10 @@
 A biztonságos adat tárolás, mentés és megosztás jelenleg az egyik legnagyobb kihívás. A fizikai adattárolók kapacitása véges, sérülékenyek, és az adathozzáférés is korlátozott.</p>
 
 <div class="row">
-<div class="col-md-3 text-warning">
+<div class="col-md-3 col-sm-6 bg-primary mt-5">
 <p><img  class="img-fluid" src="pict/kutya.jpg">Az asztali munkaállomások, laptopok adathordozóin tárolt adatok elérhetősége korlátozott, csak addig biztosított, míg a készülék a rendszerhez csatlakozik és működik, illetve amíg az adathordozó hardver nem hibásodik meg. Ha meghibásodik adataihoz – ha nem készített biztonsági mentést -, csak jelentős költségek árán férhet újra hozzá. Nálunk alap a rendszeres és garantált biztonsági mentés. Adatai, dokumentumai mindig rendelkezésre állnak.
 
 <div class="row">
-<div class="col-md-3 text-warning">
+<div class="col-md-3 col-sm-6 bg-primary mt-5">
 <p><img  class="img-fluid" src="pict/kutya.jpg">A serverkraft.hu cloud, felhő szolgáltatás egyszerű és hatékony válaszokat ad. Olyan komplex szolgáltatást biztosítunk, hol nem csak az adatbiztonság a kiemelt tényező, hanem vállalatának levelezését, feladatkezelését, dokumentumait, de még a napi feladatokat is a felhő szolgáltatás keretein belül, egy rendszerben kezelheti munkatársaival.A rendszer lényege az irányított vagy szűrt megosztásban rejlik, így bizalmas vagy privát dokumentumait a felhőben csak ön kezelheti, míg az olyan adatokat, amivel munkatársainak is dolgozni kell, egy egyszerű megosztással, vagy szűrt kezeléssel irányítottan megoszthatóvá teszi, amit a hozzáférésre jogosultak módosíthatnak is, és mindezt akár mobil eszközök segítségével.
 </div>
