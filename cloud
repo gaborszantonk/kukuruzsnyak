@@ -14,7 +14,7 @@
     <h1>Üdvözletem, István</h1>
 </header>
 <div class="row">
-<div class="col-md-3 text-warning">
+<div class="col-md-3 col-sm-6 bg-primary mt-5">
     <p><img  class="img-fluid" src="pict/kutya.jpg">a felhasználók kényelmesen és igény szerint férhetnek
         hozzá a megosztott informatikai erőforrásokhoz,
         amelyeket gyorsan és minimális adminisztrációs
@@ -23,7 +23,7 @@
         felhasználók gépein, hanem távoli szervereken zajlik.</p>
 
 <div class="row">
-<div class="col-md-3 text-warning">
+<div class="col-md-3 col-sm-6 bg-info mt-5">
 <p><img  class="img-fluid" src="pict/kutya.jpg">Az IT szakemberek örök dilemmája és harca az adatmentések problémája. Mikor és hova a fő kérdés. Később ez bonyolódik azzal, hogy ha egy dokumentummal egy munkatársnak dolgoznia kell, akkor biztosan ugyanoda menti e vissza, és ha dolgozott vele az nyomon követhető e, mert fontos tudni mikor módosított.
 A biztonságos adat tárolás, mentés és megosztás jelenleg az egyik legnagyobb kihívás. A fizikai adattárolók kapacitása véges, sérülékenyek, és az adathozzáférés is korlátozott.</p>
 
