@@ -1,3 +1,2 @@
-header {background-color: blue;}
-body {background-color: red;}
-#1 {color: yellow; width: 33%;padding: 10px;}
+
+body {background-image: url("./pict/letöltés.jpg");background-size: cover;background-attachment: fixed;}
